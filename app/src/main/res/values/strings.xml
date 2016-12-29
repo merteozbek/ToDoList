@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_ayarlar">Ayarlar</string>
+    <string name="action_sort">Çeşit Listesi</string>
+    <string name="action_add">Ekle</string>
+    <string name="action_clear">Sil</string>
+</resources>
